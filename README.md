@@ -7,9 +7,9 @@
 
 ### Development
 
-In VSCode terminal, run command `hugo server -D`. Then open browser and go to http:://localhost:1313 to preview.
+In VSCode terminal, run command `hugo server -D`. Then open browser and go to `http:://localhost:1313` to preview.
 
-Make changes in `/content` and live preview in the browser
+Make changes in `/content` and and live preview in the browser.
 
 ### Commit change
 
