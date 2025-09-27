@@ -1,0 +1,44 @@
+baseURL: 'https://thithaonguyen.github.io/'
+languageCode: en-us
+title: 🏡 Thi Thao NGUYEN
+theme: PaperMod
+params:
+    homeInfoParams:
+        Title: Hi there 👋
+        Content: I'm Thao. I'm trying to see the world with my own eyes and think for myself, and this website is where I practice and share what I find meaningful.
+
+    socialIcons: # optional
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/thi-thao-275408192/"
+        - name: "orcid"
+          url: "https://orcid.org/my-orcid?orcid=0000-0003-2089-7874"
+        - name: "goodreads"
+          url: "https://www.goodreads.com/user/show/115132457-thi-thao-nguyen"
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+menu:
+  main:
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 10
+    - identifier: Research
+      name: Research
+      url: /research/
+      weight: 20
+    - identifier: Teaching
+      name: Teaching
+      url: /teaching/
+      weight: 30
+    - identifier: Reading
+      name: Reading
+      url: /reading/
+      weight: 40
+    - identifier: Miscellaneous
+      name: Miscellaneous
+      url: /miscellaneous/
+      weight: 50
+   
