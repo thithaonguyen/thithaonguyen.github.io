@@ -5,7 +5,7 @@ draft: false
 katex: true
 ---
 
-Question: [Test] Show that if a relation is complete, transitive and satisfies the independence axiom, then it satisfies the monotonicity property.
+Question: Show that if a relation is complete, transitive and satisfies the independence axiom, then it satisfies the monotonicity property.
 
 Answer: 
 Without loss of generality, assume $$ p \succ q $$. We need to show that for any probability a and b,
