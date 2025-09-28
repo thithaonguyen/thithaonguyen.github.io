@@ -12,3 +12,5 @@ draft: false
 
 ### Theses
 1. [Individual manipulation: analytical results of four voting rules](https://espace.library.uq.edu.au/view/UQ:734695)
+
+2. [Essays in Welfare Economic](/essays_welfare_econ.pdf)
